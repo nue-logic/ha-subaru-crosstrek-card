@@ -1,0 +1,12 @@
+type: picture-elements
+image: >-
+  https://github.com/nue-logic/ha-subaru-crosstrek-card/blob/main/src/images/subaru-crosstrek/overhead/light/subaru-crosstrek.png?raw=true
+card_mod:
+  style:
+    hui-image$: |
+      img {
+        max-width: 40%;
+        margin: auto;
+        padding-top: 4%;
+      }
+elements:
